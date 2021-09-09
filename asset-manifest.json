@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/NewsUpdateDaly/static/js/main.2f6ce3b2.chunk.js",
+    "main.js.map": "/NewsUpdateDaly/static/js/main.2f6ce3b2.chunk.js.map",
+    "runtime-main.js": "/NewsUpdateDaly/static/js/runtime-main.9f214766.js",
+    "runtime-main.js.map": "/NewsUpdateDaly/static/js/runtime-main.9f214766.js.map",
+    "static/js/2.89cc5bf4.chunk.js": "/NewsUpdateDaly/static/js/2.89cc5bf4.chunk.js",
+    "static/js/2.89cc5bf4.chunk.js.map": "/NewsUpdateDaly/static/js/2.89cc5bf4.chunk.js.map",
+    "index.html": "/NewsUpdateDaly/index.html",
+    "precache-manifest.cb8c108b407ac75d5b7e58f87ce13d89.js": "/NewsUpdateDaly/precache-manifest.cb8c108b407ac75d5b7e58f87ce13d89.js",
+    "service-worker.js": "/NewsUpdateDaly/service-worker.js",
+    "static/js/2.89cc5bf4.chunk.js.LICENSE.txt": "/NewsUpdateDaly/static/js/2.89cc5bf4.chunk.js.LICENSE.txt",
+    "static/media/off.svg": "/NewsUpdateDaly/static/media/off.86c83439.svg",
+    "static/media/speaker.svg": "/NewsUpdateDaly/static/media/speaker.199f62c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f214766.js",
+    "static/js/2.89cc5bf4.chunk.js",
+    "static/js/main.2f6ce3b2.chunk.js"
+  ]
+}
